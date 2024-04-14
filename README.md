@@ -1,6 +1,7 @@
 # AI-driven-web-application-for-detecting-COVID-19-from-CT-SCAN-or-X-Ray-images
 
-![image](https://github.com/aminebkk/AI-driven-web-application-for-detecting-COVID-19-from-CT-SCAN-or-X-Ray-images/assets/68397537/18a7651c-cb36-41a1-8045-f4c0ae5ec8cc)
+![image](https://github.com/aminebkk/AI-driven-web-application-for-detecting-COVID-19-from-CT-SCAN-or-X-Ray-images/assets/68397537/e5b19565-4ac1-4252-ae4c-c0f1acd6dec4)
+
 
 
 ![image](https://github.com/aminebkk/AI-driven-web-application-for-detecting-COVID-19-from-CT-SCAN-or-X-Ray-images/assets/68397537/c956f6d0-6a75-4ea4-bafb-98578a37f397)
